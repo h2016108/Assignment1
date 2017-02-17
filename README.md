@@ -1,5 +1,5 @@
 # assignment1
-first kernel code for true random number
+ my first kernel code for true random number
 
 for execution:
 
